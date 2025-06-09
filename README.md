@@ -23,9 +23,19 @@
 ---
 
 ## 🛠️ Project Structure
-
-rinai/ ├── main.py # Entry point for the chatbot ├── pre_trained.py # Loads the pre-trained GPT-2 model and tokenizer ├── generate.py # Handles response generation ├── store_conv.py # Saves and filters conversations to CSV ├── fine_tuning.py # Fine-tunes the model on your conversations ├── save_model.py # Save/load model and tokenizer ├── loop_chat.py # Chat loop logic ├── conversations.csv # Your conversation history (used for fine-tuning) ├── chatbot_model/ # Saved/fine-tuned model checkpoints └── README.md # This file!
-
+```
+rinai/
+├── main.py           # Entry point for the chatbot
+├── pre_trained.py    # Loads the pre-trained GPT-2 model and tokenizer
+├── generate.py       # Handles response generation
+├── store_conv.py     # Saves and filters conversations to CSV
+├── fine_tuning.py    # Fine-tunes the model on your conversations
+├── save_model.py     # Save/load model and tokenizer
+├── loop_chat.py      # Chat loop logic
+├── conversations.csv # Your conversation history (used for fine-tuning)
+├── chatbot_model/    # Saved/fine-tuned model checkpoints
+└── README.md         # This file!
+```
 
 ---
 
