@@ -1,4 +1,4 @@
-# 🎀 rinai: Conversational AI Chatbot 🎀
+# 🎀 rinai: rintemo's Older Sister 🎀
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)](https://huggingface.co/transformers/)
