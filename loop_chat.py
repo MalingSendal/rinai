@@ -20,3 +20,5 @@ def chat(model, tokenizer, save_conversation, generate_response, fine_tune_model
         response = generate_response(user_input, model, tokenizer)
         print(f"Bot: {response}")
         save_conversation(user_input, response)
+
+#run fine-tune dailydialog
